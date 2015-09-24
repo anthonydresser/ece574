@@ -1,0 +1,13 @@
+
+****** Webtalk v2015.2.1 (64-bit)
+  **** SW Build 1302555 on Wed Aug  5 13:06:02 MDT 2015
+  **** IP Build 1291990 on Mon Jul 27 03:18:52 MDT 2015
+    ** Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+
+source C:/Users/Anthony/Documents/ECE530/project_1/project_1.hw/webtalk/labtool_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:07 . Memory (MB): peak = 62.578 ; gain = 0.094
+
+    while executing
+"webtalk_transmit -clientid 3981126276 -regid "210993739_0_0_467" -xml C:/Users/Anthony/Documents/ECE530/project_1/project_1.hw/webtalk/usage_statistic..."
+    (file "C:/Users/Anthony/Documents/ECE530/project_1/project_1.hw/webtalk/labtool_webtalk.tcl" line 26)
+INFO: [Common 17-206] Exiting Webtalk at Wed Sep 23 22:27:44 2015...
